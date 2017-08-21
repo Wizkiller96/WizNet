@@ -6,18 +6,22 @@
 }
 
 /* WizBot Admins */
+
+/* TheExpatriateWolf */
 .avatar-small[style*='192798593227292672'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='192798593227292672'] + .member-inner .member-username::after,
 .message-group .avatar-large[style*='192798593227292672'] + .comment .user-name::after {
     content: "WizBot Admin";
 }
 
+/* Xeno */
 .avatar-small[style*='111566184448589824'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='111566184448589824'] + .member-inner .member-username::after,
 .message-group .avatar-large[style*='111566184448589824'] + .comment .user-name::after {
     content: "WizBot Admin";
 }
 
+/* Jdog */
 .avatar-small[style*='245657145423429633'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='245657145423429633'] + .member-inner .member-username::after,
 .message-group .avatar-large[style*='245657145423429633'] + .comment .user-name::after {

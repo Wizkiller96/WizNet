@@ -107,7 +107,7 @@
 .message-group .avatar-large[style*='110055633344040960'] + .comment .user-name::after,
 .avatar-small[style*='121706759520780289'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='121706759520780289'] + .member-inner .member-username::after,
-.message-group .avatar-large[style*='121706759520780289'] + .comment .user-name::after
+.message-group .avatar-large[style*='121706759520780289'] + .comment .user-name::after,
 .avatar-small[style*='186524961924448256'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='186524961924448256'] + .member-inner .member-username::after,
 .message-group .avatar-large[style*='186524961924448256'] + .comment .user-name::after {
@@ -154,7 +154,7 @@
 .message-group .avatar-large[style*='110055633344040960'] + .comment .user-name::after,
 .avatar-small[style*='121706759520780289'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='121706759520780289'] + .member-inner .member-username::after,
-.message-group .avatar-large[style*='121706759520780289'] + .comment .user-name::after
+.message-group .avatar-large[style*='121706759520780289'] + .comment .user-name::after,
 .avatar-small[style*='186524961924448256'] + .member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='186524961924448256'] + .member-inner .member-username::after,
 .message-group .avatar-large[style*='186524961924448256'] + .comment .user-name::after {
@@ -172,7 +172,7 @@
 .avatar-small[style*='99272781513920512'] + .member-inner .member-username-inner::after,
 .avatar-small[style*='284708288304775168'] + .member-inner .member-username-inner::after,
 .avatar-small[style*='110055633344040960'] + .member-inner .member-username-inner::after,
-.avatar-small[style*='121706759520780289'] + .member-inner .member-username-inner::after
+.avatar-small[style*='121706759520780289'] + .member-inner .member-username-inner::after,
 .avatar-small[style*='186524961924448256'] + .member-inner .member-username-inner::after {
     top: -1px;
     font-size: 11px;

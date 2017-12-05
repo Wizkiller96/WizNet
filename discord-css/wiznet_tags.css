@@ -68,7 +68,7 @@
     height: 14px;
     padding: 1px 2px;
     border-radius: 3px;
-    background: rgba(255, 0, 238, 0.781);
+    background: rgba(255, 140, 232, 0.781);
     color: hsla(0, 0%, 100%, 0.8);
     font-size: 10px;
     text-align: center;
@@ -83,7 +83,7 @@
 .guild-settings-modal-members .avatar-small[style*='213817345334968330']+.member-inner .member-username::after,
 .message-group .avatar-large[style*='213817345334968330']+.comment .user-name::after {
     position: relative;
-    background: rgba(255, 0, 238, 0.808);
+    background: rgba(255, 140, 232, 0.781);
     color: hsla(0, 0%, 100%, 0.6);
     margin-left: 6px;
 }

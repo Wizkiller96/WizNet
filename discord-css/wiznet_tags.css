@@ -10,11 +10,13 @@
 
 /* TheExpatriateWolf */
 
+/*
 .avatar-small[style*='192798593227292672']+.member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='192798593227292672']+.member-inner .member-username::after,
 .message-group .avatar-large[style*='192798593227292672']+.comment .user-name::after {
     content: "WizBot Admin";
 }
+*/
 
 
 /* Xeno */
@@ -115,9 +117,9 @@
 .avatar-small[style*='245657145423429633']+.member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='245657145423429633']+.member-inner .member-username::after,
 .message-group .avatar-large[style*='245657145423429633']+.comment .user-name::after,
-.avatar-small[style*='192798593227292672']+.member-inner .member-username-inner::after,
+/*.avatar-small[style*='192798593227292672']+.member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='192798593227292672']+.member-inner .member-username::after,
-.message-group .avatar-large[style*='192798593227292672']+.comment .user-name::after,
+.message-group .avatar-large[style*='192798593227292672']+.comment .user-name::after,*/
 .avatar-small[style*='99272781513920512']+.member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='99272781513920512']+.member-inner .member-username::after,
 .message-group .avatar-large[style*='99272781513920512']+.comment .user-name::after,
@@ -163,9 +165,9 @@
 .avatar-small[style*='245657145423429633']+.member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='245657145423429633']+.member-inner .member-username::after,
 .message-group .avatar-large[style*='245657145423429633']+.comment .user-name::after,
-.avatar-small[style*='192798593227292672']+.member-inner .member-username-inner::after,
+/*.avatar-small[style*='192798593227292672']+.member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='192798593227292672']+.member-inner .member-username::after,
-.message-group .avatar-large[style*='192798593227292672']+.comment .user-name::after,
+.message-group .avatar-large[style*='192798593227292672']+.comment .user-name::after,*/
 .avatar-small[style*='99272781513920512']+.member-inner .member-username-inner::after,
 .guild-settings-modal-members .avatar-small[style*='99272781513920512']+.member-inner .member-username::after,
 .message-group .avatar-large[style*='99272781513920512']+.comment .user-name::after,
@@ -192,7 +194,7 @@
 .avatar-small[style*='213817345334968330']+.member-inner .member-username-inner::after,
 .avatar-small[style*='111566184448589824']+.member-inner .member-username-inner::after,
 .avatar-small[style*='245657145423429633']+.member-inner .member-username-inner::after,
-.avatar-small[style*='192798593227292672']+.member-inner .member-username-inner::after,
+/*.avatar-small[style*='192798593227292672']+.member-inner .member-username-inner::after,*/
 .avatar-small[style*='99272781513920512']+.member-inner .member-username-inner::after,
 .avatar-small[style*='284708288304775168']+.member-inner .member-username-inner::after,
 .avatar-small[style*='121706759520780289']+.member-inner .member-username-inner::after,
